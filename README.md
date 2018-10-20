@@ -15,9 +15,9 @@ if (A>B){
             		cout << "Bilangan Terbesar Adalah:" << C;
 
 2 ini hasilnya
- ![img](https://github.com/dendy12/praktik2/blob/master/latihan1/Picture1.png)
- ![img](https://github.com/dendy12/praktik2/blob/master/latihan1/Picture2.png)
- ![img](https://github.com/dendy12/praktik2/blob/master/latihan1/Picture3.png)
+![img](https://github.com/dendy12/praktik2/blob/master/latihan1/hasil1.png)
+![img](https://github.com/dendy12/praktik2/blob/master/latihan1/hasil2.png)
+![img](https://github.com/dendy12/praktik2/blob/master/latihan1/hasil3.png)
 
 
 3. Latihan2 membuat penentuan terbesar dan terkecil dari 4 variabel. -Mendeklarasikan variabel n,nilai sebagai variabel input -Mendeklarasikan variabel i sebagai pembatas inputan/perulangan -Mendeklarasikan max sebagai nilai terbesar dan min nilai terkecil -Menginputkan nilai n dimana menunjukan banyak angka yang akan di input -menginputkan nilai nilai yang akan di bandingkan. Berikut kode lengkapnya
